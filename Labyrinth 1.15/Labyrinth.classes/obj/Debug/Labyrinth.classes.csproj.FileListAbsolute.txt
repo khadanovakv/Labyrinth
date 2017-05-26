@@ -1,0 +1,65 @@
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.csprojResolveAssemblyReference.cache
+Z:\2 курс\ООП\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.csprojResolveAssemblyReference.cache
+Z:\2 курс\ООП\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.csprojResolveAssemblyReference.cache
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.csprojResolveAssemblyReference.cache
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.csprojResolveAssemblyReference.cache
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.csprojResolveAssemblyReference.cache
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.csprojResolveAssemblyReference.cache
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.csprojResolveAssemblyReference.cache
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.csprojResolveAssemblyReference.cache
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.csprojResolveAssemblyReference.cache
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth 06.05.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth 06.05.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth 06.05.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth 06.05.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth.classes\bin\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth.classes\obj\Debug\Labyrinth.classes.csprojResolveAssemblyReference.cache
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth.classes\bin\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth.classes\bin\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth.classes\obj\Debug\Labyrinth.classes.csprojResolveAssemblyReference.cache
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth.classes\obj\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth.classes\obj\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth.classes\obj\Debug\Labyrinth.classes.csprojResolveAssemblyReference.cache
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth.classes\obj\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth.classes\obj\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth.classes\bin\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth.classes\bin\Debug\Labyrinth.classes.pdb

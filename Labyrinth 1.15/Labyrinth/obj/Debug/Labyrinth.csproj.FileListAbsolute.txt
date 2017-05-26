@@ -1,0 +1,152 @@
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+Z:\2 курс\ООП\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+Z:\2 курс\ООП\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+Z:\2 курс\ООП\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+Z:\2 курс\ООП\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+Z:\2 курс\ООП\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+Z:\2 курс\ООП\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+Z:\2 курс\ООП\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+Z:\2 курс\ООП\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+Z:\2 курс\ООП\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170407T162636Z-001\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+Z:\2 курс\ООП\Labyrinth 08.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-20170408T073023Z-001\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+Z:\2 курс\ООП\Labyrinth 15.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+Z:\2 курс\ООП\Labyrinth 22.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-22.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+Z:\2 курс\ООП\Labyrinth 29.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-29.04.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+Z:\2 курс\ООП\Labyrinth 06.05.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+Z:\2 курс\ООП\Labyrinth 06.05.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+Z:\2 курс\ООП\Labyrinth 06.05.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+Z:\2 курс\ООП\Labyrinth 06.05.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.dll
+Z:\2 курс\ООП\Labyrinth 06.05.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.pdb
+Z:\2 курс\ООП\Labyrinth 06.05.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+Z:\2 курс\ООП\Labyrinth 06.05.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+Z:\2 курс\ООП\Labyrinth 06.05.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+Z:\2 курс\ООП\Labyrinth 06.05.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+Z:\2 курс\ООП\Labyrinth 06.05.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+Z:\2 курс\ООП\Labyrinth 06.05.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth\bin\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+D:\OK\КузГТУ\2 курс\ООП\Labyrinth-06.05.17\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth\bin\Debug\Labyrinth.exe.config
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth\obj\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth\obj\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth\bin\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth\bin\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth\bin\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth\bin\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.1\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth\bin\Debug\Labyrinth.exe.config
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth\obj\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth\obj\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth\bin\Debug\Labyrinth.exe
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth\bin\Debug\Labyrinth.pdb
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth\bin\Debug\Labyrinth.classes.dll
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth\bin\Debug\Labyrinth.classes.pdb
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth\obj\Debug\Labyrinth.csprojResolveAssemblyReference.cache
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+D:\OK\КузГТУ\2 курс\ООП\Лабиринт\Labyrinth 1.15\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.Cache
